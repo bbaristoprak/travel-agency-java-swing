@@ -1,0 +1,4 @@
+test,Taxi,Istanbul Black Taxi (Available Taxis: 11, Price: $43.4 + $2.77/km), Estimated Distance (KM):, Cost:$57.25
+test,Travel Package: Flight,FL3977 KUFly (Istanbul 11:00 -> Rome 21:00, $1379.19) 26 seats left  Hotel, Marriott, 2 nights Taxi, Paris Black Taxi (Available Taxis: 31, 5 km Total Cost:$2151.60
+test,Flight,FL7392 Pegasus Airlines (Istanbul 12:00 -> Rome 14:00, $623.63) 104 seats left
+test,Taxi,Istanbul Orange Taxi (Available Taxis: 36, Price: $24.3 + $7.83/km), Estimated Distance (KM):, Cost:$63.45
